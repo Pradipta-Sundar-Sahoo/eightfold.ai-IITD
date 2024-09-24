@@ -1,4 +1,5 @@
 # INNOV8: The Space Saga (IITD & Eightfold.ai)
+[GITHUB](https://github.com/Pradipta-Sundar-Sahoo/eightfold.ai-IITD)
 ## PARTS
 1. [PART 1](#part-1)
 2. [PART 2](#part-2)
